@@ -1,0 +1,382 @@
+.background{
+	background-image: url(../photos/foni.jpg);
+	
+	background-size: cover;
+	background-position:center center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 720px;
+	
+	
+}
+.sia{
+	text-align: left;
+	float: left;
+	padding-left: 123px;
+	float: right;
+}
+.warwera1{
+	text-decoration: none;
+	list-style-type: none;
+	color: white;
+	float: left;
+	font-size: 13px;
+	
+	padding-right: 50px;
+	font-family: 'Poppins', sans-serif;
+	padding-top: 4px;
+	
+	
+	
+	
+}
+
+.warwera2{
+	text-decoration: none;
+	list-style-type: none;
+	color: gray;
+	float: left;
+	font-size: 13px;
+	
+	padding-right:50px;
+	font-family: 'Poppins', sans-serif;
+	padding-top: 4px;
+	
+	
+	
+}
+.warwera3{
+	text-decoration: none;
+	list-style-type: none;
+	color: gray;
+	float: left;
+	font-size: 13px;
+	
+	padding-right:50px;
+	font-family: 'Poppins', sans-serif;
+	padding-top: 4px;
+	
+	
+}
+.warwera4{
+	text-decoration: none;
+	list-style-type: none;
+	color: gray;
+	float: left;
+	font-size: 13px;
+	
+	padding-right:80px;
+	font-family: 'Poppins', sans-serif;
+	padding-top: 4px;
+		
+}
+.warwera5 {
+	text-decoration: none;
+	list-style-type: none;
+	color: white;
+	float: left;
+	font-size: 13px;
+	font-style: bold;
+	padding-right: 10px;
+	font-family: 'Poppins', sans-serif;
+	padding-top: 4px;
+	
+	
+	
+}
+.signin{
+	width: 90px;
+	padding-right: 95px;
+	color: white;
+	
+}
+
+.class{
+	margin: 0px;
+	padding: 0px;
+
+}
+.logo{
+	width: 70px;
+	padding-top: 20px;
+	padding-left: 150px;
+
+	
+	
+}
+.quik1{
+	width:850px;
+	float: left;
+	padding-top: 45px;
+
+
+}
+.quik2{
+	width: 202px;
+	
+	padding-left: 0px;
+	padding-top: 27px;
+	
+
+}
+.scroll{
+	float: right;
+	padding-bottom: 0px;
+	padding-right: 50px;
+}
+.siacharcho{
+	width: 100%;
+	height: 100px;
+}
+.satauri{
+	padding-top: 80px;
+	width: 500px;
+	padding-left: 150px;
+	min-width: 347.5px;
+	
+}
+.gilaki{
+	width: 130px;
+	padding-left: 150px;
+
+}
+.google{
+	padding-left: 50px;
+	width: 15px;
+
+}
+.twiter{
+	padding-left: 50px;
+	padding-top: 25px;
+	width: 15px;
+}
+.facebook{
+	padding-left: 50px;
+	padding-top:25px;
+	width: 10px;
+
+}
+
+
+
+
+
+.nawili2{
+	background color: gray;
+	width: auto;
+	align-content: center;
+	height: 800px;
+}
+.video1{
+	width: 700px;
+	padding-top: 50px;
+	padding-left: 130px;
+	
+
+}
+
+.video2{
+	width: 400px;
+	padding-top: 50px;
+	padding-left: 20px;
+	height: 393px;
+	
+
+}
+.video3{
+	width: 400px;
+	padding-top: 20px;
+	padding-left: 130px;
+	
+}
+.video4{
+	width: 700px;
+	padding-top: 20px;
+	padding-left: 20px;
+	
+}
+
+
+
+
+.gverdi3{
+	width: 100%;
+	padding-top: 100px;
+	
+}
+.gverdi4{
+	background-image: url(../photos/4gverdi.png);
+	width: 100%;
+	height: 800px;
+	background-size: cover;
+	background-position:center center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+
+}
+.naweri2{
+	padding-left: 100px;
+	padding-top: 100PX;
+
+}
+.gilaki1{
+	padding-left: 100px;
+	padding-top: 20px;
+}
+.gilaki2{
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.daviwyebuli{
+	padding-left: 130px;
+}
+.choose{
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+}
+.protecting{
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	font-size: 35px;
+}
+.premium{
+	padding-top: 20px;
+	width: 300px;
+}
+.paid1{
+	align-content: center;
+	
+	width: 400px;
+	transition: width 2s ,height 4s;
+}
+.paid1:hover {
+	width: 410px;
+	
+	
+}
+.paid2{
+	
+	width:400px;
+	padding-top: 10%;
+	transition: width 2s ,height 4s;
+	
+}
+.paid2:hover {
+	width:  410px;
+	
+	
+}
+.paid3{
+	
+	width:400px;
+	padding-top: 10%;
+	transition: width 2s ,height 4s;
+}
+.paid3:hover {
+	width: 410px;
+	
+	
+}
+.paid{
+	height: 869px;
+	width: 1300px;
+	padding-left: 20px;
+}
+.bolo{
+	background-image: url(../photos/boloparti.png);
+	background-size: cover;
+	background-position:center center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 720px;
+	padding-top: 100px;
+}
+.bolotext{
+	width: 380px;
+
+
+	padding-left: 50px;
+	padding-top: 280px;
+}
+.logo1{
+	width: 100px;
+	padding-left: 75px;
+}
+.bolodiv{
+	width: 550px;
+	height: 400px;
+	float: left;
+}
+.textlorem{
+	font-family: 'Poppins', sans-serif;
+	text-align: left;
+	width: 400px;
+	padding-left: 75px;
+}
+.a7{
+	padding-left: 75px;
+	padding-top: 50px;
+	transition: width 2s ,height 4s;
+
+}
+.a7:hover {
+	width: 30px;
+	
+	
+}
+.a8{
+	padding-left: 30px;
+	padding-top: 50px;
+	transition: width 2s ,height 4s;
+}
+.a8:hover {
+	width: 30px;
+
+	
+	
+}
+.a9{
+	padding-left: 30px;
+	padding-top: 50px;
+	transition: width 2s ,height 4s;
+}
+.a9:hover {
+	width: 30px;
+	
+	
+}
+.a10{
+	padding-left: 30px;
+	padding-top: 50px;
+	transition: width 2s ,height 4s;
+}
+.a10:hover {
+	width: 30px;
+	
+	
+}
+
+.shua{
+	float: left;
+	padding-top: 50px;
+	width: 300px;
+}
+.email{
+	width: 400px;
+	padding-top: 10px;
+	padding-left: 20px;
+	transition: width 2s ,height 4s;
+
+}
+.email:hover {
+	width: 450px;
+	
+	
+}
+.subscribe{
+	font-size: 15px;
+	padding-left: 930px;
+	padding-top: 50px;
+	font-family: 'Poppins', sans-serif;
+}
